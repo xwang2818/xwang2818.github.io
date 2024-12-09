@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 吳健雄
+title: 王翔
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Wang Xiang
 
 # Full name (for SEO)
 first_name: Shiung Wu
